@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-29T23:04:16.903Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="wMu6RBDW5VNHQLlsq2_D" version="22.0.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-10-29T23:05:03.695Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="Vnhl9eLfMOFkCqJ39eRr" version="22.0.8" type="github" pages="5">
   <diagram name="Exercise 1" id="IEjHNJ0pmOHl9RQTl8Xk">
     <mxGraphModel dx="1393" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
       <root>
@@ -6,9 +6,6 @@
         <mxCell id="1" parent="0" />
         <mxCell id="KTv329vmwgTg1pqAnI8G-3" value="&lt;b&gt;&lt;font face=&quot;Courier New&quot;&gt;1. From the following statement we want to create the entity-relationship model.&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="215" y="12" width="600" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KTv329vmwgTg1pqAnI8G-4" value="&lt;div&gt;Entities: Packages, Pronvices, Trucks, truck drivers&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;- Packages: Package code, description, recipient, address | Relation: Un conductor de distribuye varios paquetes y un paquete solo puede ser por un conductor.&lt;/div&gt;&lt;div&gt;&amp;nbsp;- Pronvices: Which the packages arrive, province code, name | Relation: Una provincia alcanza a varios paquetes.&lt;/div&gt;&lt;div&gt;&amp;nbsp;- Trucks: License plate, model, Type, Power | Relation: Un conductor conduce varios camiones y un camión es conducido por varios conductores.&lt;/div&gt;&lt;div&gt;&amp;nbsp;- Truck drivers: ID, name, telephone number, address, salary, town where they live. |&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="40" y="590" width="880" height="100" as="geometry" />
         </mxCell>
         <mxCell id="KTv329vmwgTg1pqAnI8G-12" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="KTv329vmwgTg1pqAnI8G-5" target="KTv329vmwgTg1pqAnI8G-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -182,8 +179,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mZIZw0Aj9IpojoDTm3ix-1" value="Each course has a group of students, one of whom is the group delegate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="285" y="650" width="410" height="30" as="geometry" />
+        <mxCell id="mZIZw0Aj9IpojoDTm3ix-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;PREGUNTAR: Each course has a group of students, one of whom is the group delegate&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-15;" vertex="1" parent="1">
+          <mxGeometry x="160" y="305" width="690" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6dr4hZ84aIYjJ2-IWwdi-1" value="&lt;b&gt;&lt;font face=&quot;Courier New&quot;&gt;1. From the following statement we want to create the entity-relationship model.&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="215" y="12" width="600" height="30" as="geometry" />
