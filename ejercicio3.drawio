@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T16:36:38.036Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="YsMFo-nilU2bbe2Ry7Vv" version="22.0.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-10-30T16:46:02.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="V9vv0DU_aipzFd96f61p" version="22.0.8" type="github" pages="5">
   <diagram name="Exercise 1" id="IEjHNJ0pmOHl9RQTl8Xk">
     <mxGraphModel dx="1393" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
       <root>
@@ -182,7 +182,7 @@
         <mxCell id="mZIZw0Aj9IpojoDTm3ix-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;PREGUNTAR: Each course has a group of students, one of whom is the group delegate&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-15;" parent="1" vertex="1">
           <mxGeometry x="160" y="305" width="690" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6dr4hZ84aIYjJ2-IWwdi-1" value="&lt;b&gt;&lt;font face=&quot;Courier New&quot;&gt;1. From the following statement we want to create the entity-relationship model.&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="6dr4hZ84aIYjJ2-IWwdi-1" value="&lt;b&gt;&lt;font face=&quot;Courier New&quot;&gt;2. From the following statement we want to create the entity-relationship model.&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="215" y="12" width="600" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6dr4hZ84aIYjJ2-IWwdi-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="6dr4hZ84aIYjJ2-IWwdi-4" target="6dr4hZ84aIYjJ2-IWwdi-20" edge="1">
@@ -474,6 +474,9 @@
         <mxCell id="H8clcObliVE9Kk-Qps_f-8" value="Factory code" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="485" y="430" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="IYdKKGM9G4NjoibJT0ph-1" value="&lt;b&gt;&lt;font face=&quot;Courier New&quot;&gt;3. From the following statement we want to create the entity-relationship model.&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="5" width="600" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -482,6 +485,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="d9ho5rTjh5LSH2BPek9H-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Supplier: RUT, Name, Address (Street, number and city), Telephone number (several), Website&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Product: ID, name, Current price, stock and supplier name | Relation (Product - Category): Un producto va en una categoria&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Category: ID, name, Description&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Sales Information: ID, date, customer, discount, final amount, the price at the time of sale, the quantity sold, total amount for the product&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;| Relation (Sales Info. - Products): Sale puede varios productos y el producto puede estar en 0 o varias sales.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="580" width="750" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
