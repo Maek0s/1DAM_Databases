@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-07T18:55:32.212Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="SyDQfCeu1DxZyQuZonEZ" version="22.0.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-07T19:00:15.668Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="sxW0kjYqw-iFZFtbp03h" version="22.0.8" type="github" pages="4">
   <diagram name="Exercise 1" id="sMuEwo57DOW2Laynuzo8">
     <mxGraphModel dx="1509" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
       <root>
@@ -415,6 +415,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5rUf15PwXA0mMUNY7jr6-1" value="&lt;b style=&quot;color: rgb(67, 67, 67); background-color: transparent; text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot; face=&quot;Courier New&quot;&gt;3. Create a diagram from the following statement:&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="325" y="10" width="520" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5rUf15PwXA0mMUNY7jr6-2" value="&lt;div&gt;- Entities:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;gt; Departaments (Name, Internal number)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;gt; Officials (Number, name, Address and departament)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;gt;&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="640" width="320" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
