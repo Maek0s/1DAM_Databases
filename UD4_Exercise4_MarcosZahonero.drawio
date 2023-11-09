@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T16:23:22.436Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="2T1En377jSgTHPfjmCu0" version="22.1.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-09T16:30:33.626Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="qFNgw8TImp7iD2rAq5KC" version="22.1.0" type="github" pages="4">
   <diagram name="Exercise 1" id="sMuEwo57DOW2Laynuzo8">
     <mxGraphModel dx="1434" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
       <root>
@@ -432,15 +432,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Fqo3TvzHRGFp9V6NPbxw" name="Exercise 3">
-    <mxGraphModel dx="2018" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="849" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5rUf15PwXA0mMUNY7jr6-1" value="&lt;b style=&quot;color: rgb(67, 67, 67); background-color: transparent; text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot; face=&quot;Courier New&quot;&gt;3. Create a diagram from the following statement:&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="325" y="10" width="520" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5rUf15PwXA0mMUNY7jr6-2" value="&lt;div&gt;- Entities:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;gt; Departaments (Name, Internal number)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;gt; Officials (Number, name, Address and departament) (Specialization -&amp;gt; Driver (License number y numero de accidentes) | Administrador -&amp;gt; Langugages you speak | Technician -&amp;gt; The specialties you can work&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;gt; Cars (License plate, Register dates of drivers) | Relation to Drivers - Any driver can any car&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;gt; Projects (Number/ID, Name, Start, End date) | The Technical works here&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="720" width="1140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="y7kA7KbG3-wNjqDOLj_5-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="y7kA7KbG3-wNjqDOLj_5-1" target="y7kA7KbG3-wNjqDOLj_5-3">
           <mxGeometry relative="1" as="geometry" />
@@ -627,6 +624,30 @@
         </mxCell>
         <mxCell id="PYV18NmyfkwKfskaDHEx-1" value="(1,n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="393" y="191" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PYV18NmyfkwKfskaDHEx-2" value="(1,n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="509" y="311" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PYV18NmyfkwKfskaDHEx-3" value="1:N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="362" y="255" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PYV18NmyfkwKfskaDHEx-4" value="(1,1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="344" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PYV18NmyfkwKfskaDHEx-5" value="(1,n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="511" y="348" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PYV18NmyfkwKfskaDHEx-6" value="1:N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="398" y="379" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PYV18NmyfkwKfskaDHEx-7" value="(1,n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="645" y="348" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PYV18NmyfkwKfskaDHEx-8" value="(1,n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="875" y="358" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PYV18NmyfkwKfskaDHEx-9" value="N:M" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="805" y="378" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
