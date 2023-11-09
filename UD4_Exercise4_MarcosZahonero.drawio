@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T16:31:01.852Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="tuOh7TNKYqWPsvC1zrYd" version="22.1.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-09T16:48:09.855Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="0K3SrLjqEbPEVPq0BkLb" version="22.1.0" type="github" pages="4">
   <diagram name="Exercise 1" id="sMuEwo57DOW2Laynuzo8">
     <mxGraphModel dx="1434" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
       <root>
@@ -432,7 +432,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Fqo3TvzHRGFp9V6NPbxw" name="Exercise 3">
-    <mxGraphModel dx="849" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="774" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -653,10 +653,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yhGxsQarfnTCvj8WzM0i" name="Exercise 4">
-    <mxGraphModel dx="1674" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
+    <mxGraphModel dx="1106" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fXdH0yr8iYaNGEx8mTUp-1" value="&lt;b style=&quot;font-size: 12pt; background-color: transparent; text-align: start;&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;4. Create a diagram from the following statement:&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="10" width="490" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
