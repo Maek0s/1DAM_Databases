@@ -1,9 +1,122 @@
-<mxfile host="app.diagrams.net" modified="2023-11-21T18:25:01.638Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="22.1.3" etag="pcqmHHOs5Ygyd_pOO5pw" type="github">
-  <diagram name="Página-1" id="s6UP3YSVPayXmiM5UkvV">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2023-11-21T18:43:32.295Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="S-BPJAmjjUOBRz81wjy1" version="22.1.3" type="github" pages="8">
+  <diagram name="Ejercicio 2" id="s6UP3YSVPayXmiM5UkvV">
+    <mxGraphModel dx="513" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-W6sRGnbbnQQ_3bXXXMR-1" value="&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Marcos Zahonero&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="329" y="553" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oGPRaBB6svItABvemWCe-1" value="&lt;span style=&quot;font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; text-align: start;&quot;&gt;1. Crea un diagrama con una jerarquía inclusiva y total entre la entidad ‘Persona’ y &lt;br&gt;las subentidades ‘Jubilado’, ‘Estudiante’, ‘Trabajador’.&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="139" y="20" width="550" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oGPRaBB6svItABvemWCe-2" value="Persona" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="364" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oGPRaBB6svItABvemWCe-3" value="Jubilado" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="360" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oGPRaBB6svItABvemWCe-4" value="Estudiante" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="364" y="360" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oGPRaBB6svItABvemWCe-5" value="Trabajador" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="490" y="360" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oGPRaBB6svItABvemWCe-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="oGPRaBB6svItABvemWCe-6" target="oGPRaBB6svItABvemWCe-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oGPRaBB6svItABvemWCe-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=0.702;exitY=0.656;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="oGPRaBB6svItABvemWCe-6" target="oGPRaBB6svItABvemWCe-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oGPRaBB6svItABvemWCe-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=0.289;exitY=0.672;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="oGPRaBB6svItABvemWCe-6" target="oGPRaBB6svItABvemWCe-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oGPRaBB6svItABvemWCe-6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.merge_or_storage;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="384" y="250" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oGPRaBB6svItABvemWCe-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="399" y="220" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oGPRaBB6svItABvemWCe-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="oGPRaBB6svItABvemWCe-2" target="oGPRaBB6svItABvemWCe-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="bXWGF3gQvI8TQfe0GtxY" name="Ejercicio 3">
+    <mxGraphModel dx="1428" dy="1524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XWVDZJnuDHoiAh0nyCyD-1" value="&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Marcos Zahonero&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="788" width="170" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Ejercicio 4" id="N7XCAI3fObROB7bnRkU3">
+    <mxGraphModel dx="714" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="emVUb7xYAfuHqp8Xjb3y-0" />
+        <mxCell id="emVUb7xYAfuHqp8Xjb3y-1" parent="emVUb7xYAfuHqp8Xjb3y-0" />
+        <mxCell id="emVUb7xYAfuHqp8Xjb3y-2" value="&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Marcos Zahonero&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="emVUb7xYAfuHqp8Xjb3y-1">
+          <mxGeometry x="500" y="788" width="170" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Ejercicio 5" id="7tQu3U58EtfLByiPfnBh">
+    <mxGraphModel dx="714" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="a_R9b0GTvAho48e8AoWs-0" />
+        <mxCell id="a_R9b0GTvAho48e8AoWs-1" parent="a_R9b0GTvAho48e8AoWs-0" />
+        <mxCell id="a_R9b0GTvAho48e8AoWs-2" value="&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Marcos Zahonero&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="a_R9b0GTvAho48e8AoWs-1">
+          <mxGeometry x="500" y="788" width="170" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Ejercicio 6" id="68oRxoqA9hb6sxomcYJI">
+    <mxGraphModel dx="714" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="rTrqL4ixCt3RJRfFR4qe-0" />
+        <mxCell id="rTrqL4ixCt3RJRfFR4qe-1" parent="rTrqL4ixCt3RJRfFR4qe-0" />
+        <mxCell id="rTrqL4ixCt3RJRfFR4qe-2" value="&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Marcos Zahonero&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="rTrqL4ixCt3RJRfFR4qe-1">
+          <mxGeometry x="500" y="788" width="170" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Ejercicio 7" id="ubZDKlNIlawsq9397yZc">
+    <mxGraphModel dx="714" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="26u0AH9kyKDvd15An8O5-0" />
+        <mxCell id="26u0AH9kyKDvd15An8O5-1" parent="26u0AH9kyKDvd15An8O5-0" />
+        <mxCell id="26u0AH9kyKDvd15An8O5-2" value="&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Marcos Zahonero&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="26u0AH9kyKDvd15An8O5-1">
+          <mxGeometry x="500" y="788" width="170" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Ejercicio 8" id="FsXtY-T1UhNcKNqy4ghy">
+    <mxGraphModel dx="714" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="bSm-1dwrW_8Ugu19XNZG-0" />
+        <mxCell id="bSm-1dwrW_8Ugu19XNZG-1" parent="bSm-1dwrW_8Ugu19XNZG-0" />
+        <mxCell id="bSm-1dwrW_8Ugu19XNZG-2" value="&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Marcos Zahonero&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="bSm-1dwrW_8Ugu19XNZG-1">
+          <mxGeometry x="500" y="788" width="170" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Ejercicio 9" id="bQIxRGEy8d0m9tq8Y5Bm">
+    <mxGraphModel dx="714" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="foAJY4nc_GlZPDkyIOwI-0" />
+        <mxCell id="foAJY4nc_GlZPDkyIOwI-1" parent="foAJY4nc_GlZPDkyIOwI-0" />
+        <mxCell id="foAJY4nc_GlZPDkyIOwI-2" value="&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Marcos Zahonero&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="foAJY4nc_GlZPDkyIOwI-1">
+          <mxGeometry x="500" y="788" width="170" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
