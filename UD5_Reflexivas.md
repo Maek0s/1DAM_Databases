@@ -1,3 +1,5 @@
+# UD 5 - Reflexivas
+
 ## CASO (1:1)
 ### Ejercicio 1
 
@@ -26,3 +28,25 @@ dniRel: FOREIGN KEY EMPLEADO (dni)
 
  &nbsp; TEMA (**idTema**, idTemaRel(fk)) <br>
  &nbsp; idTemaRel: FOREIGN KEY TEMA (idTema)
+
+## CASO (N:M)
+### Ejercicio 1
+
+![image](https://github.com/Maek0s/bd/assets/145163254/79cf7cdf-25ee-4bb1-9c44-60927168b555)
+
+PIEZA (**idPieza**) <br>
+SE_COMPONE (**idPieza**, **idPiezaRel(fk)**) <br>
+idPieza: FOREIGN KEY PIEZA (idPieza) <br>
+idPiezaRel: FOREIGN KEY PIEZA (idPieza)
+
+### Ejercicio 2
+
+![image](https://github.com/Maek0s/bd/assets/145163254/92e07b5b-0b62-41a5-81fd-6f9d18b75042)
+
+EMPLEADO (nombre, **dni**) <br>
+JEFE (**dni(fk)**,**idJefe(fk)**) <br>
+dni: FOREIGN KEY EMPLEADO (dni) <br>
+idJefe: FOREIGN KEY JEFE (idJefe)
+
+
+
