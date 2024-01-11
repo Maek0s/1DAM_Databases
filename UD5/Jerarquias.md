@@ -17,3 +17,24 @@ LIBRO (**idDocumento**, nombreLibro) <br>
 **idDocumento:** FOREIGN KEY DOCUMENTO (idDocumento) <br>
 REVISTA (**idDocumento**, nombreRevista) <br>
 **idDocumento:** FOREIGN KEY DOCUMENTO (idDocumento)
+
+## Ejercicio 2
+
+![image](https://github.com/Maek0s/bd/assets/145163254/a7f9e293-6409-47ae-9c81-7865b243397d)
+
+### Opción A
+
+EMPLEADO (**idEmpleado**, Rol, Tipo_inge, nombreSecretaria)
+
+### Opción B
+
+INGENIERO (**idEmpleado**, Rol, Tipo_inge) <br>
+SECRETARIA (**idEmpleado**, nombreSecretaria)
+
+### Opción C
+
+EMPLEADO (**idEmpleado**) <br>
+INGENIERO (**idEmpleado**, Rol, tipo_inge) <br>
+**idEmpleado:** FOREIGN KEY EMPLEADO (idEmpleado) <br>
+SECRETARIO (**idEmpleado**, nombreSecretaria) <br>
+**idEmpleado:** FOREIGN KEY EMPLEADO (idEmpleado) <br>
