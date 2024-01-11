@@ -16,7 +16,6 @@ REVISTA (**idDocumento**, nombreRevista)
 
 DOCUMENTO (**idDocumento**) <br>
 LIBRO (**idDocumento**, nombreLibro) <br>
-**idDocumento:** FOREIGN KEY DOCUMENTO (idDocumento) <br>
 REVISTA (**idDocumento**, nombreRevista) <br>
 **idDocumento:** FOREIGN KEY DOCUMENTO (idDocumento)
 
@@ -37,6 +36,5 @@ SECRETARIA (**idEmpleado**, nombreSecretaria)
 
 EMPLEADO (**idEmpleado**) <br>
 INGENIERO (**idEmpleado**, Rol, tipo_inge) <br>
-**idEmpleado:** FOREIGN KEY EMPLEADO (idEmpleado) <br>
 SECRETARIO (**idEmpleado**, nombreSecretaria) <br>
 **idEmpleado:** FOREIGN KEY EMPLEADO (idEmpleado) <br>
