@@ -1,9 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2024-01-19T14:01:37.189Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="QNSq1rnqlZoONFesBZJ4" version="22.1.21" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-19T14:04:49.521Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="P-PWLz7mlVC5uco5jDld" version="22.1.21" type="github" pages="4">
   <diagram id="XnNm069SJt1u4t9D9Xvu" name="Actividad 1">
-    <mxGraphModel dx="1493" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="669" math="0" shadow="0">
+    <mxGraphModel dx="1030" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="669" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Cl75cJhkzIg5TowLoJDm-2" value="" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="110" y="100" width="620" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl75cJhkzIg5TowLoJDm-1" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl75cJhkzIg5TowLoJDm-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.034;entryY=0.672;entryDx=0;entryDy=0;dashed=1;entryPerimeter=0;" edge="1" parent="1" source="Cl75cJhkzIg5TowLoJDm-3" target="Cl75cJhkzIg5TowLoJDm-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl75cJhkzIg5TowLoJDm-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cl75cJhkzIg5TowLoJDm-3" target="Cl75cJhkzIg5TowLoJDm-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl75cJhkzIg5TowLoJDm-3" value="Autenticar credenciales" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="305" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl75cJhkzIg5TowLoJDm-4" value="Pagar recibos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="209" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl75cJhkzIg5TowLoJDm-6" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=318;" vertex="1" parent="1">
+          <mxGeometry x="217" y="262" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl75cJhkzIg5TowLoJDm-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cl75cJhkzIg5TowLoJDm-8" target="Cl75cJhkzIg5TowLoJDm-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl75cJhkzIg5TowLoJDm-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cl75cJhkzIg5TowLoJDm-8" target="Cl75cJhkzIg5TowLoJDm-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl75cJhkzIg5TowLoJDm-8" value="Consultar movimientos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="300" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl75cJhkzIg5TowLoJDm-10" value="Consultar último mes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="272" width="110" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl75cJhkzIg5TowLoJDm-11" value="Consultar última semana" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="335" width="110" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
